@@ -1,6 +1,7 @@
 # IS120 Reusable Cards Assignment
 
 The intent of this assignment was to display my capability in creating custom CSS cards from scratch. A combination of W3Schools and lecture material helped me accomplish this, and I am now capable of re-using my card designs or optimizing them as I see fit.
+
 GitHub Pages Link: https://hamidjae.github.io/is120-hw5-hamidjaeyoung-jahangir/
 
 ## Use of Margin
