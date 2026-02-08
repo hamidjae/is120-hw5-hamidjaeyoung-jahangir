@@ -1,6 +1,7 @@
 # IS120 Reusable Cards Assignment
 
 The intent of this assignment was to display my capability in creating custom CSS cards from scratch. A combination of W3Schools and lecture material helped me accomplish this, and I am now capable of re-using my card designs or optimizing them as I see fit.
+GitHub Pages Link: https://hamidjae.github.io/is120-hw5-hamidjaeyoung-jahangir/
 
 ## Use of Margin
 Margin was used in selectors such as .card, .card-title, and .card-button etc. to establish the minimum "distance" in pixels that every card should take before duplicating. I also used margin in the titles and following descriptions in order to create a proper sense of hierarchy and distance from one another, so that it makes a pleasant aesthetic. Without margin, all of the cards would stick together and there would be no real sense of breathable space between every element.
