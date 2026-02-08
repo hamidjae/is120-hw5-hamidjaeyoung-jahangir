@@ -16,4 +16,8 @@ This handles how each card class will behave when it is duplicated. Inline-block
 #### .card-button's display: block
 Stylistically, this display allows my button to take up and entire block-level element's worth of size inside of my card. I used it in this way because I do not find a reason to have text in the same place that I would have my button. However, this can easily be changed to an inline element if necessary. I also made sure to use margin: 16px auto 0; here in order to reduce the size that it takes up, so that it looks aesthetically better. Without the margin, the button spans the entire width of the card.
 
+## Use of Position
+Position was used to allow the different elements of the cards to exist together without making a mess.
+.card uses position: relative; for instance to allow the card elements to exist where it would be normally on that page and not break any flow of lines, whilst also tying in nicely into position: absolute. position: absolute was used in the card-sticker to allow any stickers that I place to behave independent of any other elements, whilst using the position: relative as reference to place itself. 
+
 
